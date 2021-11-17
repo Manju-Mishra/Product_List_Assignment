@@ -1,0 +1,19 @@
+label{
+    color:darkmagenta;
+    font-weight:bold;
+  }
+#head{
+    color:saddlebrown;
+    font-family: fantasy;
+    margin-left: 120px;
+}
+#btn
+{
+    background-color: darkslategray;
+    font-weight:bold;
+}
+#btn:hover{
+    background-color:peru;
+    color:darkslategray;
+    font-weight:bold;
+}
